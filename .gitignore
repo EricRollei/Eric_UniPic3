@@ -57,3 +57,6 @@ desktop.ini
 # Local test files
 test_*.py
 !test_high_res.py
+
+# NSFW examples
+Examples/NSFW/
