@@ -1,0 +1,32 @@
+[project]
+name = "comfyui-eric-unipic3"
+version = "1.0.0"
+description = "ComfyUI nodes for UniPic3 multi-image composition and HOI"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Eric Hiss", email = "eric@rollei.us"}
+]
+requires-python = ">=3.10"
+dependencies = [
+    "diffusers>=0.35.0",
+    "transformers>=4.45.0",
+    "Pillow>=9.0.0",
+]
+keywords = [
+    "comfyui",
+    "unipic3",
+    "image-editing",
+    "image-composition",
+    "hoi",
+    "multi-image",
+    "diffusion",
+]
+
+[project.urls]
+Repository = "https://github.com/EricRollei/ComfyUI-Eric-UniPic3"
+
+[tool.comfy]
+PublisherId = "EricRollei"
+DisplayName = "Eric UniPic3 Nodes"
+Icon = ""
