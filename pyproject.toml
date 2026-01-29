@@ -27,6 +27,6 @@ keywords = [
 Repository = "https://github.com/EricRollei/Eric_UniPic3"
 
 [tool.comfy]
-PublisherId = "EricRollei"
+PublisherId = "ericrollei"
 DisplayName = "Eric UniPic3 Nodes"
 Icon = ""
