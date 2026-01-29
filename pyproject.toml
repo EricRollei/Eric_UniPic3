@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-eric-unipic3"
-version = "1.0.0"
+version = "1.0.1"
 description = "ComfyUI nodes for UniPic3 multi-image composition and HOI"
 readme = "README.md"
 license = {text = "MIT"}
