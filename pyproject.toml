@@ -24,7 +24,7 @@ keywords = [
 ]
 
 [project.urls]
-Repository = "https://github.com/EricRollei/ComfyUI-Eric-UniPic3"
+Repository = "https://github.com/EricRollei/Eric_UniPic3"
 
 [tool.comfy]
 PublisherId = "EricRollei"
