@@ -674,7 +674,12 @@ Pipeline implementation leverages [Hugging Face Diffusers](https://github.com/hu
 1. **Clone to custom_nodes:**
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/EricRollei/ComfyUI-Eric-UniPic3.git Eric_UniPic3
+   git clone https://github.com/EricRollei/Eric_UniPic3.git
+   ```
+
+   Or install via ComfyUI Manager / Registry:
+   ```bash
+   comfy node install comfyui-eric-unipic3
    ```
 
 2. **Install dependencies:**

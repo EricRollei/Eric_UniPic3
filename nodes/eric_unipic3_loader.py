@@ -2,7 +2,12 @@
 Eric UniPic3 Loader
 Load UniPic3 pipeline with custom transformer weights.
 
-Author: Eric Hiss (GitHub: EricRollei)
+UniPic3 Model Credits:
+- Developed by Skywork AI (https://github.com/SkyworkAI/UniPic)
+- Paper: "Skywork UniPic 3.0" (arXiv:2601.15664)
+- Authors: Hongyang Wei, Hongbo Liu, Zidong Wang, et al.
+
+ComfyUI Nodes Author: Eric Hiss (GitHub: EricRollei)
 License: MIT
 """
 
