@@ -60,3 +60,7 @@ test_*.py
 
 # NSFW examples
 Examples/NSFW/
+
+# Build artifacts
+node.zip
+*.zip
